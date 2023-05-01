@@ -12,6 +12,6 @@ The amount of this clicker increases by pressing the up button and decreases by 
 
 
 > important warning
->if you use linux do write in end commands digit 3
-> 
+>if you use linux do write python3
+>
 > library [pygame](https://pypi.org/project/pygame/)
