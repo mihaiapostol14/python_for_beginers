@@ -1,7 +1,7 @@
 import pyautogui
 
 pyautogui.PAUSE = 2
-pyautogui.FAILSAFE = True
+pyautogui.FAILSAFE = False
 
 
 def start_browser(name_browser=''):
